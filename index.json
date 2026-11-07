@@ -1,0 +1,171 @@
+{
+  "generatedAt": "2026-09-16T00:00:00Z",
+  "modules": [
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "atsu",
+      "icon": {
+        "path": "modules/atsu/icon.png",
+        "sha256": "b8feb015e571f0919f63f1fd2ea065ad337d98b045eeb9157a32bc7ceb995dcc"
+      },
+      "id": "atsu",
+      "language": "en",
+      "manifest": {
+        "path": "modules/atsu/manifest.json",
+        "sha256": "03778a66d369330289478dc19c4e11e2aaed9a2ef9645bc5a05cdad2ba667742"
+      },
+      "name": "Atsu",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.7",
+      "sortPriority": 5
+    },
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "synthetiq-manga",
+      "icon": {
+        "path": "modules/synthetiq-manga/icon.png",
+        "sha256": "ff757a30db4de5632c7ca79b08ae064f1c41d02a883dac4e46ad4846cab1a962"
+      },
+      "id": "synthetiq-manga-v1",
+      "language": "en",
+      "manifest": {
+        "path": "modules/synthetiq-manga/manifest.json",
+        "sha256": "e72fef878ec794a08ddf94889b86a6cff668a51bf7a2eb68523f29ef12b40ab2"
+      },
+      "name": "SynManga",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.3",
+      "sortPriority": 2
+    },
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "weebcentral-v2",
+      "icon": {
+        "path": "modules/weebcentral/icon.png",
+        "sha256": "9a684e14510979d6e45513efd43d5b421ca66c6d6f6c3ad3bcfb1fc259d8780f"
+      },
+      "id": "weebcentral-v2",
+      "language": "en",
+      "manifest": {
+        "path": "modules/weebcentral/manifest.json",
+        "sha256": "e02e2ce490edf5146cebb39c0405025f69b708fde34720cd594ae0d4781e343e"
+      },
+      "name": "WeebCentral",
+      "releaseTrack": "stable",
+      "status": "active",
+      "version": "4.1.7",
+      "sortPriority": 1
+    },
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "mangakatana",
+      "icon": {
+        "path": "modules/mangakatana/icon.png",
+        "sha256": "b1fc0249caf13b4e5e7ca12beb9e8e32e5927d5d5b32d68c8b051b381af9c82d"
+      },
+      "id": "mangakatana",
+      "language": "en",
+      "manifest": {
+        "path": "modules/mangakatana/manifest.json",
+        "sha256": "09a71cd68dba76828f7bfd7ed1bfd6b454c5b56363100680103586b81b607030"
+      },
+      "name": "MangaKatana",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.3",
+      "sortPriority": 4
+    },
+    {
+      "contentRating": "unknown",
+      "contentType": "text",
+      "familyID": "lnori",
+      "icon": {
+        "path": "modules/lnori/icon.png",
+        "sha256": "2b1af2c72d766152c44012e905fc7d670a61fff315d8bb85d3bd4d05c7f65179"
+      },
+      "id": "lnori",
+      "language": "en",
+      "manifest": {
+        "path": "modules/lnori/manifest.json",
+        "sha256": "62bf46f288afa850a7f1886ba4f75a46731e282ec9d9af18459082ba658f2c4f"
+      },
+      "name": "Lnori",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.1"
+    },
+    {
+      "id": "asura-scans",
+      "familyID": "asura-scans",
+      "name": "Asura Scans",
+      "version": "1.0.0",
+      "language": "en",
+      "contentType": "pageImages",
+      "contentRating": "suggestive",
+      "releaseTrack": "beta",
+      "status": "active",
+      "sortPriority": 92,
+      "manifest": {
+        "path": "modules/asura-scans/manifest.json",
+        "sha256": "f147774fa720add6ab3393794e95c68d0a69c3e253a00ffc6c87f30f2fd23f2f"
+      },
+      "icon": {
+        "path": "modules/asura-scans/icon.png",
+        "sha256": "34172b0656154dbaa8767555cdd8aa2f690a9001f0432a706034dc619d8ceec9"
+      }
+    },
+    {
+      "id": "chikari",
+      "familyID": "chikari",
+      "name": "Chikari",
+      "version": "1.0.0",
+      "language": "en",
+      "contentType": "pageImages",
+      "contentRating": "suggestive",
+      "releaseTrack": "beta",
+      "status": "active",
+      "manifest": {
+        "path": "modules/chikari/manifest.json",
+        "sha256": "30de4ae4167d85a556fb67e7bb75de77843f93b12a65d2cecf97c50b9388008d"
+      },
+      "icon": {
+        "path": "modules/chikari/icon.png",
+        "sha256": "6fca630e5f439a1c4cbf13cdd9b2957b6156100befcfe54bb6a77f8d7d150a69"
+      }
+    },
+    {
+      "contentRating": "suggestive",
+      "contentType": "pageImages",
+      "familyID": "mangabuddy",
+      "icon": {
+        "path": "modules/mangabuddy/icon.png",
+        "sha256": "e600eb18806030a219754857ea278ad869616e21ad12d3a51ba661503b1e382c"
+      },
+      "id": "mangabuddy",
+      "language": "en",
+      "manifest": {
+        "path": "modules/mangabuddy/manifest.json",
+        "sha256": "52a125067c5ebe8eb190ed54a3beab3387795e4a4dd337a4bc3429385da7c254"
+      },
+      "name": "MangaBuddy (Comizy)",
+      "releaseTrack": "beta",
+      "status": "active",
+      "version": "1.0.1",
+      "sortPriority": 10
+    }
+  ],
+  "repository": {
+    "homepage": "https://github.com/Synthetiq-HQ/synthetiq-manga-sources",
+    "id": "synthetiq.sources",
+    "name": "Synthetiq Manga Sources",
+    "owner": "Synthetiq-HQ",
+    "universalLink": "https://synthetiq.uk/manga/modules"
+  },
+  "schemaVersion": 1
+}

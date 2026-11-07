@@ -1,0 +1,6 @@
+{
+  "name": "Synthetiq Manga Sources Explorer & Reader",
+  "description": "Interactive runner, browser, and test harness for Synthetiq Manga loose-file source modules, featuring live catalog discovery, chapter reader, media streamer, and contract auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
